@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio button.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio_button.Form1.resources
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio_button.Properties.Resources.resources
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio button.csproj.GenerateResource.cache
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio button.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C# Projects\radio button\radio button\bin\Debug\radio button.exe.config
+C:\Users\hp\Documents\C# Projects\radio button\radio button\bin\Debug\radio button.exe
+C:\Users\hp\Documents\C# Projects\radio button\radio button\bin\Debug\radio button.pdb
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio button.exe
+C:\Users\hp\Documents\C# Projects\radio button\radio button\obj\Debug\radio button.pdb
