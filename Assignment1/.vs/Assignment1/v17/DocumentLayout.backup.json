@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C29C04-7852-4965-9A5A-52191BA2FE92}|Assignment1\\Assignment1.csproj|c:\\users\\hp\\documents\\c# projects\\assignment1\\assignment1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37C29C04-7852-4965-9A5A-52191BA2FE92}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C29C04-7852-4965-9A5A-52191BA2FE92}|Assignment1\\Assignment1.csproj|C:\\Users\\hp\\Documents\\C# Projects\\Assignment1\\Assignment1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C29C04-7852-4965-9A5A-52191BA2FE92}|Assignment1\\Assignment1.csproj|solutionrelative:Assignment1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment1\\Assignment1\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment1\\Assignment1\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T13:14:01.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment1\\Assignment1\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment1\\Assignment1\\Form1.cs",
+              "RelativeToolTip": "Assignment1\\Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAewFIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T13:15:35.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
