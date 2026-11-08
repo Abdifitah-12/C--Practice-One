@@ -1,0 +1,33 @@
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.AssemblyReference.cache
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.cache
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.CoreCompileInputs.cache
+D:\c#\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+D:\c#\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+D:\c#\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe.config
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe.config
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+C:\Users\hp\Downloads\Cabdi\c#_one_assignments\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe.config
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.cache
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+C:\Users\hp\Documents\C# Projects\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
