@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment_3Stu_INFO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C0D98E-26FA-40B9-8E33-B9BF1EE1212D}|Assignment_3Stu_INFO\\Assignment_3Stu_INFO.csproj|C:\\Users\\hp\\Documents\\C# Projects\\Assignment_3Stu_INFO\\assignment_3stu_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C0D98E-26FA-40B9-8E33-B9BF1EE1212D}|Assignment_3Stu_INFO\\Assignment_3Stu_INFO.csproj|solutionrelative:assignment_3stu_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C0D98E-26FA-40B9-8E33-B9BF1EE1212D}|Assignment_3Stu_INFO\\Assignment_3Stu_INFO.csproj|c:\\users\\hp\\documents\\c# projects\\assignment_3stu_info\\assignment_3stu_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C0D98E-26FA-40B9-8E33-B9BF1EE1212D}|Assignment_3Stu_INFO\\Assignment_3Stu_INFO.csproj|solutionrelative:assignment_3stu_info\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment_3Stu_INFO\\Assignment_3Stu_INFO\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment_3Stu_INFO\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment_3Stu_INFO\\Assignment_3Stu_INFO\\Form1.cs",
+              "RelativeToolTip": "Assignment_3Stu_INFO\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:19:31.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment_3Stu_INFO\\Assignment_3Stu_INFO\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment_3Stu_INFO\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\C# Projects\\Assignment_3Stu_INFO\\Assignment_3Stu_INFO\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment_3Stu_INFO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:15:43.717Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

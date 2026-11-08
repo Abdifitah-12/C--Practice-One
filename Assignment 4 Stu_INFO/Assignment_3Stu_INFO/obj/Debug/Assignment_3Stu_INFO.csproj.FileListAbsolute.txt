@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\bin\Debug\Assignment_3Stu_INFO.exe.config
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\bin\Debug\Assignment_3Stu_INFO.exe
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\bin\Debug\Assignment_3Stu_INFO.pdb
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.Form1.resources
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.Properties.Resources.resources
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.csproj.GenerateResource.cache
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.exe
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.pdb
+C:\Users\hp\Documents\C# Projects\Assignment_3Stu_INFO\Assignment_3Stu_INFO\obj\Debug\Assignment_3Stu_INFO.exe.config
