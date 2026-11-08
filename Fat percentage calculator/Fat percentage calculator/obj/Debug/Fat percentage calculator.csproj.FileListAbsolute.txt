@@ -1,0 +1,22 @@
+D:\c#\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.exe.config
+D:\c#\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.exe
+D:\c#\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.pdb
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.AssemblyReference.cache
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat_percentage_calculator.Form1.resources
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat_percentage_calculator.Properties.Resources.resources
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.GenerateResource.cache
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.CoreCompileInputs.cache
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.exe
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.pdb
+D:\c#\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.exe.config
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.exe.config
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.exe
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.pdb
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.exe.config
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat_percentage_calculator.Form1.resources
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat_percentage_calculator.Properties.Resources.resources
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.GenerateResource.cache
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.exe
+C:\Users\hp\Documents\C# Projects\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.pdb
